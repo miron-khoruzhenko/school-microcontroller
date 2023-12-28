@@ -111,3 +111,6 @@ void main(void)
           }
     }
 }
+
+
+https://microdigisoft.com/pic16f877a-interfacing-bluetooth-module-hc-05-with-pic-microcontroller/
